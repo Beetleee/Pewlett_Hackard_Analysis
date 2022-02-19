@@ -17,7 +17,7 @@ For this project I utilized pgAdmin4 to determine the number of retiring employe
 ### Overview of Analysis:
 In this analysis, Bobby needs to determine the number of retirees per title in the company, and identify the ones who are eligible to participate in a mentorship program.
 ### Results:
--	A large proportion of employees could retire at anytime.
+-	A large proportion of employees could retire at anytime! HP needs to prepare...
 -	Job title breakdowns include:
 
 - 32,452 Staff
@@ -28,4 +28,4 @@ In this analysis, Bobby needs to determine the number of retirees per title in t
 - 1,761 Assistant Engineer
 ### Summary:
 #### 90,398 roles will need to be filled as the “silver tsunami” approaches
-#### No, there are not enough qualified, retirement-ready employees ready to mentor the next gen of PH employees.
+#### There are 1,940 qualified, retirement-ready employees eligible to participate in the mentorship program, not enough to cover HP's needs.
