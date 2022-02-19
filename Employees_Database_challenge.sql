@@ -1,4 +1,4 @@
--- Deliverable 1a: retrieve info from employee table and titles, then create new table, then join both tables on pk emp_no, filter on bd.
+-- DELIVERABLE 1a: retrieve info from employee table and titles, then create new table, then join both tables on pk emp_no, filter on bd.
 SELECT e.emp_no,
        e.first_name,
        e.last_name,
@@ -13,7 +13,7 @@ WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 ORDER BY e.emp_no;
 
 
--- Deliverable 1b: retrieve the first occurance 
+-- DELIVERABLE 1b: retrieve the first occurance 
 -- Use Dictinct with Orderby to remove duplicate rows
 SELECT DISTINCT ON (emp_no) emp_no,
     first_name,
@@ -23,7 +23,7 @@ INTO unique_titles
 FROM retirement_titles
 ORDER BY emp_no, title DESC;
 
--- Deliverable 1c: retrieve employees by their most recent job title 
+-- DELIVERABLE 1c: retrieve employees by their most recent job title 
 -- who are about to retire.
 SELECT COUNT(un.emp_no),
 un.title
