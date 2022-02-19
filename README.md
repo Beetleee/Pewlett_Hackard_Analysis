@@ -5,7 +5,7 @@
 For this project I utilized pgAdmin4 to determine the number of retiring employees per title, and identify employees who are eligible to participate in mentorship program using several criteria.  This is for Bobby’s manager to help prepare for retirees.
 ## Deliverable 1: The Number of Retiring Employees by Title:
 ### Create Retirement Titles table for employees born between Jan 1, 1952- Dec 31, 1955.
-![](https://github.com/Beetleee/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png) -1a
+![](https://github.com/Beetleee/Pewlett_Hackard_Analysis/blob/main/Data/Deliverable%201a.png) -1a
 ### Create a Unique Titles table that contains the most recent title, name, and employee number
 ![](https://github.com/Beetleee/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png) -1b
 ### Create a Retiring Titles table that contains the number of titles by employees who are retiring
