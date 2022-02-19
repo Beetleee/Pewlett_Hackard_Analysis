@@ -19,12 +19,13 @@ In this analysis, Bobby needs to determine the number of retirees per title in t
 ### Results:
 -	A large proportion of employees could retire at anytime.
 -	Job title breakdowns include:
-o	32,452 Staff
-o	29,415 Senior Engineer
-o	14,221 Engineer
-o	8,047 Senior Staff
-o	4,502 Technique Leader
-o	1,761 Assistant Engineer
+
+- 32,452 Staff
+- 29,415 Senior Engineer
+- 14,221 Engineer
+- 8,047 Senior Staff
+- 4,502 Technique Leader
+- 1,761 Assistant Engineer
 ### Summary:
 #### 90,398 roles will need to be filled as the “silver tsunami” approaches
 #### No, there are not enough qualified, retirement-ready employees ready to mentor the next gen of PH employees.
