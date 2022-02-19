@@ -5,14 +5,14 @@
 For this project I utilized pgAdmin4 to determine the number of retiring employees per title, and identify employees who are eligible to participate in mentorship program using several criteria.  This is for Bobby’s manager to help prepare for retirees.
 ## Deliverable 1: The Number of Retiring Employees by Title:
 ### Create Retirement Titles table for employees born between Jan 1, 1952- Dec 31, 1955.
-![](https://github.com/Beetleee/Pewlett_Hackard_Analysis/blob/main/Data/Deliverable%201a.png) -1a
+![](https://github.com/Beetleee/Pewlett_Hackard_Analysis/blob/main/Data/Deliverable%201a.png) 
 ### Create a Unique Titles table that contains the most recent title, name, and employee number
-![](https://github.com/Beetleee/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png) -1b
+![](https://github.com/Beetleee/Pewlett_Hackard_Analysis/blob/main/Data/Deliverable%201b.png) 
 ### Create a Retiring Titles table that contains the number of titles by employees who are retiring
-![](https://github.com/Beetleee/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png) -1c
+![](https://github.com/Beetleee/Pewlett_Hackard_Analysis/blob/main/Data/Deliverable%201c.png) 
 ## Deliverable 2: The Employees Eligible for the Mentorship Program:
 ### Create a Mentorship Eligibility table for current employees about to retire.
-![](https://github.com/Beetleee/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png) -2
+![](https://github.com/Beetleee/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png) 
 ## Deliverable 3: A written report on the employee database analysis:
 ### Overview of Analysis:
 In this analysis, Bobby needs to determine the number of retirees per title in the company, and identify the ones who are eligible to participate in a mentorship program.
