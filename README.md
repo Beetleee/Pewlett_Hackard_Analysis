@@ -12,7 +12,7 @@ For this project I utilized pgAdmin4 to determine the number of retiring employe
 ![](https://github.com/Beetleee/Pewlett_Hackard_Analysis/blob/main/Data/Deliverable%201c.png) 
 ## Deliverable 2: The Employees Eligible for the Mentorship Program:
 ### Create a Mentorship Eligibility table for current employees about to retire.
-![](https://github.com/Beetleee/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png) 
+![](https://github.com/Beetleee/Pewlett_Hackard_Analysis/blob/main/Data/Deliverable%202.png) 
 ## Deliverable 3: A written report on the employee database analysis:
 ### Overview of Analysis:
 In this analysis, Bobby needs to determine the number of retirees per title in the company, and identify the ones who are eligible to participate in a mentorship program.
